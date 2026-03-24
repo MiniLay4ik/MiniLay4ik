@@ -44,9 +44,3 @@
 ---
 *«Код — это стихи, написанные на языке логики.»*
 
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MiniLay4ik&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="MiniLay4ik GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniLay4ik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
